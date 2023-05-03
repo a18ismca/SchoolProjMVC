@@ -1,6 +1,6 @@
 ﻿namespace SchoolProjMVC.Models
 {
-    public class Teacher
+    public class Teacher : Person
     {
     }
 }
